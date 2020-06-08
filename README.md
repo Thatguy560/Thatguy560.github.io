@@ -1,2 +1,6 @@
-## Peter's portfolio (Deployed on Github Pages)
+# Peter's Portfolio
+
+## (Deployed on Github Pages)
+
+## Contents
 
