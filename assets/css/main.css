@@ -2687,7 +2687,7 @@ input, select, textarea {
         box-shadow: 0 0 50px white;
         transition: all 0.5s ease-in-out;
       }
-      
+
       .features article .image img:hover {
         border-color: #66afe9;
         box-shadow: 0 0 75px #0074D9;
@@ -3343,16 +3343,16 @@ input, select, textarea {
         background: black;
       }
 
-      p.icon.solid.fa-mobile {
+      /* p.icon.solid.fa-mobile {
         font-size: 100px;
-      }
+      } */
 
       /* section.footer {
         background-image: url("https://images.unsplash.com/photo-1500380804539-4e1e8c1e7118?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
       } */
 
-      
-      
+
+
       /* .one.h2.developer {
         font-size: 1em;
       }
