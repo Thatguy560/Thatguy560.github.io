@@ -6,12 +6,12 @@
 
 # Contents
 
-#### About Me
+#### 1) About Me
 
-#### CV
+#### 2) CV
 
-#### Skills
+#### 3) Skills
 
-#### Projects
+#### 4) Projects
 
-#### Contact
+#### 5) Contact
