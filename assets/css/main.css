@@ -2912,11 +2912,11 @@ input, select, textarea {
 			}
 
 				#header > header {
-					padding: 2em;
+					padding: 1.8em;
 				}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 1.3em;
 				}
 
 		/* Wrapper */
@@ -3228,7 +3228,7 @@ input, select, textarea {
 					}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 1.3em;
 				}
 
 		/* Main */
